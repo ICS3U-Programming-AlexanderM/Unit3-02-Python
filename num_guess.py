@@ -3,7 +3,7 @@
 # Created by: Alexander Matheson
 # Created on: Dec, 7, 2021
 # This program gets the user to guess a number
-# between 0 and 9 and tell them if it is correct.
+# between 0 and 9 and tells them if it is correct.
 import constants
 
 
